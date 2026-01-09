@@ -1,0 +1,14 @@
+name: Pumpkin's Place
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_posts" # blog posts folder
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post" # use post layout instead of default
+      permalink: /blog/:categories/:year-:month-:day-:title # url formatting

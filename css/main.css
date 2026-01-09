@@ -1,0 +1,38 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #ff7000;
+    color: white;
+}
+
+header > span {
+    font-size: xx-large;
+}
+
+header > nav {
+    float: right;
+}
+
+body {
+    background-color: bisque;
+}
+
+.container {
+    background-color: navajowhite;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer > a {
+    color: blue;
+}
+
+.socials > a > img {
+    height: 35px;
+}
