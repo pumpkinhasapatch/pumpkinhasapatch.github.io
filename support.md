@@ -1,13 +1,13 @@
 ---
 title: Support me!
 ---
-There are many ways you can show your love for my work.
+There are many ways you can show your love for my work. I spend a lot of time working on projects, writing documentation, and just being there to talk to.
 
-# Donations
-I spend a lot of time working on projects, writing documentation, and just being there to talk to. There are **no ads** on my website and I only make money from direct donations.
+# Send me money
+There are currently **no advertisements** on my website and I only make money from the generosity of **people like you**!
 
 You can sponsor me on the following platforms with one-time or recurring payments:
-- [Ko-Fi ![Support me on Ko-Fi](img/icons/icons8-ko-fi.svg)](https://ko-fi.com/pumpkinhasapatch)
+- [Ko-Fi ![Support me on Ko-Fi](img/buttons/kofi.png)](https://ko-fi.com/pumpkinhasapatch)
 
 
 # Help with code
