@@ -1,6 +1,7 @@
 ---
 title: Welcome
 ---
+<img style="float: right" src="/img/pumpkin3d.png">
 Hi there! I am PumpkinhasaPatch, but you can just call me Pumpkin.
 
 Here you will find random things I've made in my little corner of the internet.
