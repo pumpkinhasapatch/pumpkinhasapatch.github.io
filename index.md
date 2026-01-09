@@ -11,7 +11,7 @@ Use the links above to navigate through everything. Have fun!
 # Latest blog posts
 
 # Site updates
-## 9th January 2025
+## 9th January 2026
 My website is finally published! I've had it sitting in a folder on my computer for months. The basic layout is here, and I will add more content as the website grows. Thanks for visiting!
 
 # Link to my website
