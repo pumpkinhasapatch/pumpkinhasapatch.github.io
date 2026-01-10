@@ -5,28 +5,59 @@
 header {
     background-color: #ff7000;
     color: white;
+    border-bottom: solid #502506 2px;
 }
 
 header > span {
     font-size: xx-large;
+    margin-left: 4px;
 }
 
 header > nav {
     float: right;
+    max-width: 50%;
+}
+
+header > nav > a {
+    float: left;
+    color: white;
+    background-color: green;
+    padding: 8px;
+    border: solid white 1px;
+    border-radius: 10px;
+    margin: 4px;
+    margin-left: 0px;
 }
 
 body {
+    margin: 0px;
+    background-image: url("/img/background.png");
+    background-size: 32px;
+    image-rendering: pixelated;
     background-color: bisque;
 }
 
 .container {
     background-color: navajowhite;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 20px;
+    border: dashed #502506 2px;
+}
+
+code {
+    background: white;
+}
+
+table {
+    border: solid black 1px;
 }
 
 footer {
     background-color: black;
     color: white;
     text-align: center;
+    border-top: solid #502506 2px;
 }
 
 footer > a {
