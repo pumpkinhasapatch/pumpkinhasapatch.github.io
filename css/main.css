@@ -29,12 +29,16 @@ header > nav > a {
     margin-left: 0px;
 }
 
+header > nav > a:hover {
+    color: lightgray;
+    background-color: darkgreen
+}
+
 body {
     margin: 0px;
-    background-image: url("/img/background.png");
-    background-size: 32px;
-    image-rendering: pixelated;
-    background-color: bisque;
+    background: url(/img/background_space.jpg) repeat center center;
+    background-size: cover;
+    background-color: black;
 }
 
 .container {
@@ -60,8 +64,8 @@ footer {
     border-top: solid #502506 2px;
 }
 
-footer > a {
-    color: blue;
+footer > div > a {
+    color: green;
 }
 
 .socials > a > img {
