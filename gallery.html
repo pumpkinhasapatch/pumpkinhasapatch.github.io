@@ -1,0 +1,18 @@
+---
+title: Gallery
+layout: default
+---
+<link rel="stylesheet" type="text/css" href="/css/gallery.css">
+
+{% for item in site.data.gallery %}
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ item.image }}">
+      <img src="{{ item.image }}">
+    </a>
+    <div class="desc">{{ item.desc }}</div>
+  </div>
+</div>
+{% endfor %}
+
+<div class="clearfix"></div> 
